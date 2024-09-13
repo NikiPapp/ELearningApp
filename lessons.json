@@ -1,0 +1,130 @@
+{
+  "lessons": [
+    {
+      "id": 1,
+      "video": "https://www.youtube.com/embed/AK42GhbTZ9w",
+      "title": "Pets & Animals | Beginner English",
+      "text": "Our family has a small dog with a white coat and brown spots. My son named our dog Buster. Buster and our children have a lot of fun together playing. Sometimes they play indoors, but most of the time they play outdoors. We love being outdoors as much as we can. Sometimes we go to the local zoo to see other animals. My daughter's favorite animal is the giraffe because it is tall and has a long neck. We also like watching the elephants. Another thing we like to do is take walks in the woods. There are many kinds of trees, wildflowers, and birds. Sometimes we see squirrels and rabbits too.",
+      "description": "We will be learning about animals here, regardless of their size or whether you can take them home. Enjoy it too!",
+      "memory": [
+        {
+          "index": 1,
+          "name": "photo1.jpg",
+          "source": "sfsdf.jpg"
+        },
+        {
+          "index": 2,
+          "name": "photo1.jpg",
+          "source": "sfsdf"
+        },
+        {
+          "index": 2,
+          "name": "photo1.jpg",
+          "source": "sfsdf"
+        }
+      ],
+      "questionsAnswers": [
+        {
+          "index": 1,
+          "question": "question1",
+          "answer1": "word",
+          "answer2": "word",
+          "answer3": "word",
+          "answer4": "word"
+        },
+        {
+          "index": 2,
+          "question": "question1",
+          "answer1": "word",
+          "answer2": "word",
+          "answer3": "word",
+          "answer4": "word"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "video": "https://www.youtube.com/embed/g8YH2pQ3YLc",
+      "title": "Travel & Locations | Beginner English",
+      "text": "Hi mum, We are in Barcelona! We arrived at about 7am this morning. We had very comfortable seats on the plane, so we had some good sleep before we arrived. Barcelona is a beautiful city. The best way to get around Barcelona is to walk because the weather is great! Barcelona has one of the best beaches in the world and lots of interesting buildings and old places to see. After we checked into our hotel, we walked around the city and took some photos of the beautiful buildings. For lunch, we went to a great restaurant and had some great Spanish food. It was interesting to try some real Spanish food. I'm taking lots of photos, so I'll send you some soon! Love, Natasha",
+      "description": "This lesson is about travel, the means of transportation you use, and the beauty of the place. It's an exciting lesson, so check it out!",
+      "memory": [
+        {
+          "index": 1,
+          "name": "photo1.jpg",
+          "source": "sfsdf.jpg"
+        },
+        {
+          "index": 2,
+          "name": "photo1.jpg",
+          "source": "sfsdf"
+        },
+        {
+          "index": 3,
+          "name": "photo1.jpg",
+          "source": "sfsdf"
+        }
+      ],
+      "questionsAnswers": [
+        {
+          "index": 1,
+          "question": "question1",
+          "answer1": "word",
+          "answer2": "word",
+          "answer3": "word",
+          "answer4": "word"
+        },
+        {
+          "index": 2,
+          "question": "question1",
+          "answer1": "word",
+          "answer2": "word",
+          "answer3": "word",
+          "answer4": "word"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "video": "https://www.youtube.com/embed/XFL3d5gtOWI",
+      "title": "Work & School | Beginner English",
+      "text": "Matthew Knight is the manager of a movie theater. He likes his job because he is interested in movies. He works from 9:00am until 5:00pm five days a week. He works for eight hours a day. He doesn't work on the weekend. Olivia Usborne is the owner of a bookstore. She loves reading, so she enjoys her job. She works from 9:00am until 3:00pm six days a week. She works for six hours a day. She works one day on the weekend. Jonathan Brice is a medical student. He likes his course, but he doesn't like waking up early. He studies from 10:00am until 4:00pm, seven days a week. He studies for six hours a day.",
+      "description": "In this lesson, you can learn about work. This lesson is designed for beginners, but it's also great for practice!",
+      "memory": [
+        {
+          "index": 1,
+          "name": "photo1.jpg",
+          "source": "sfsdf.jpg"
+        },
+        {
+          "index": 2,
+          "name": "photo1.jpg",
+          "source": "sfsdf"
+        },
+        {
+          "index": 3,
+          "name": "photo1.jpg",
+          "source": "sfsdf"
+        }
+      ],
+      "questionsAnswers": [
+        {
+          "index": 1,
+          "question": "question1",
+          "answer1": "word",
+          "answer2": "word",
+          "answer3": "word",
+          "answer4": "word"
+        },
+        {
+          "index": 2,
+          "question": "question1",
+          "answer1": "word",
+          "answer2": "word",
+          "answer3": "word",
+          "answer4": "word"
+        }
+      ]
+    }
+  ]
+}

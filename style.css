@@ -1,0 +1,202 @@
+.hatter {
+  background: rgb(196, 169, 246);
+  background: linear-gradient(
+    90deg,
+    rgba(196, 169, 246, 1) 0%,
+    rgba(210, 167, 247, 1) 4%,
+    rgba(175, 64, 255, 1) 50%,
+    rgba(119, 228, 231, 1) 100%
+  );
+}
+body {
+  
+  background-color: rgb(247, 223, 253);
+  
+  
+}
+.bubble {
+  position: relative;
+  margin: auto;
+  margin-top: 40px;
+  background: rgb(196, 169, 246);
+  background: linear-gradient(
+    90deg,
+    rgba(196, 169, 246, 1) 0%,
+    rgba(210, 167, 247, 1) 4%,
+    rgba(175, 64, 255, 1) 50%,
+    rgba(119, 228, 231, 1) 100%
+  );
+  color: white;
+  padding: 10px 30px;
+  border-radius: 20px 50px 20px 50px; 
+  max-width: 500px; 
+  overflow: hidden;
+  box-shadow: 0 8px 20px rgba(0, 0, 0, 0.5);
+}
+
+.bubble::before {
+  content: "";
+  position: absolute;
+  top: -10px;
+  left: 20px;
+  width: 60px;
+  height: 60px;
+  background: rgba(210, 167, 247, 0.8);
+  border-radius: 60% 40% 40% 60%;
+  transform: rotate(30deg);
+}
+
+.bubble::after {
+  content: "";
+  position: absolute;
+  bottom: -15px;
+  right: 10px;
+  width: 80px;
+  height: 80px;
+  background: rgba(119, 228, 231, 0.8);
+  border-radius: 50%;
+  transform: rotate(-30deg);
+}
+
+
+.bubble::before,
+.bubble::after {
+  content: "";
+  position: absolute;
+  width: 100px;
+  height: 50px;
+  background: rgba(255, 255, 255, 0.2);
+  z-index: -1;
+  border-radius: 50% 30% 50% 30%;
+  transform: rotate(15deg);
+}
+
+.bubble::before {
+  top: 10px;
+  left: -30px;
+}
+
+.bubble::after {
+  bottom: 10px;
+  right: -30px;
+}
+
+
+h1 {
+text-align: center;
+  font-weight: bold;
+}
+p {
+  margin: 5%;
+  text-align: center;
+  font-family: "Segoe UI", Tahoma,  Verdana, sans-serif;
+}
+.kozep {
+  filter: drop-shadow(10px 10px 10px rgba(0, 0, 0, 0.5));
+  display: block;
+  margin-top: 100px;
+  margin-left: auto;
+  margin-right: auto;
+}
+.navbar-title {
+  position: absolute;
+  left: 50%;
+  transform: translateX(-50%);
+  top: 50%;
+  transform: translateY(-50%);
+  text-align: center;
+  color: white;
+}
+
+.navbar-title h1 {
+  font-size: 24px; /* Tetszőleges méret */
+  margin: 0;
+  padding: 0;
+  font-weight: bold;
+}
+
+.gomb {
+  background-color: #b894fc; /* Green */
+  border: none;
+  color: rgb(7, 7, 7);
+  padding: 15px 32px;
+  margin: 4%;
+  text-decoration: none;
+  float: right;
+  position: fixed;
+  position: fixed;
+  bottom: 0;
+  right: 0;
+  font-size: 16px;
+}
+
+.gomb {
+  align-items: center;
+  background-image: linear-gradient(144deg,#AF40FF, #5B42F3 50%,#00DDEB);
+  border: 0;
+  border-radius: 8px;
+  box-shadow: rgba(151, 65, 252, 0.2) 0 15px 30px -5px;
+  box-sizing: border-box;
+  color: #FFFFFF;
+  display: flex;
+  font-family: Phantomsans, sans-serif;
+  float: right;
+  position: fixed;
+  position: fixed;
+  bottom: 0;
+  right: 0;
+  font-size: 16px;
+  justify-content: center;
+  line-height: 1em;
+  max-width: 100%;
+  min-width: 140px;
+  padding: 3px;
+  text-decoration: none;
+  user-select: none;
+  -webkit-user-select: none;
+  touch-action: manipulation;
+  white-space: nowrap;
+  cursor: pointer;
+}
+
+.gomb:active,
+.gomb:hover {
+  outline: 0;
+}
+
+.gomb span {
+  background-color: #AF40FF;
+  padding: 16px 24px;
+  border-radius: 6px;
+  width: 100%;
+  height: 100%;
+  transition: 300ms;
+}
+
+.gomb:hover span {
+  background: none;
+}
+
+@media (min-width: 768px) {
+  .gomb{
+    font-size: 24px;
+    min-width: 196px;
+  }
+}
+article{
+ 
+  padding-top: 5%;
+  
+  
+}
+.rendez{
+  margin: 10px;
+}
+.igazitott{
+  text-align: start;
+}
+
+.row {
+  display: flex;
+  justify-content: center;
+}
